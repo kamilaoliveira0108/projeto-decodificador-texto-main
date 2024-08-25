@@ -1,5 +1,6 @@
 
-![badge]()
+![badge](https://github.com/user-attachments/assets/9be55238-2c75-4268-8823-d02adf7be9ad)
+
 
 # Criptografia de Textos - Challenger T7 ONE
 
